@@ -1,0 +1,16 @@
+.navbar-main {
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar-btn {
+    color: white;
+    background-color: #007bff;
+    font-size: 20px;
+    border: white;
+    border-radius: 50%;
+    width: 150px;
+
+}
