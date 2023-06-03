@@ -1,4 +1,36 @@
-.ItemImg {
+.ItemDetail {
+    margin-bottom: 20px;
+    display: flex
+  }
+  
+  .Header {
+    background-color: #e0e0e0;
+    padding: 10px;
+  }
+  
+  .ItemImg {
+    height: auto;
     width: 150px;
     object-fit: cover;
 }
+  
+  .Info {
+    margin-bottom: 10px;
+  }
+  
+  .ItemFooter {
+    margin-top: 10px;
+  }
+  
+  .Option {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .Option:hover {
+    background-color: #45a049;
+  }
+  
