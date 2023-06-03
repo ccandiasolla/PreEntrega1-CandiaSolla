@@ -4,7 +4,11 @@
     justify-content: space-between;
     background-color: white;
   }
-  
+  .CartItem-List {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+  }
   .CartItem h3 {
     margin: 0;
   }
